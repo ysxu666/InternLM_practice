@@ -2,8 +2,7 @@
 
 本项目是练习用途
 
-## 教程安利如果你也想了解大模型，可以去了解一下哦![大模型实战营](https://github.com/InternLM/Tutorial)
-
+如果你也想了解大模型，可以去[大模型实战营](https://github.com/InternLM/Tutorial)了解一下哦!
 ## 模型特点
 
 ## 模型使用
